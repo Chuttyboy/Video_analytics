@@ -11,7 +11,7 @@ tabulate
 
 ## 1. Get Started
 ```bash
-mkdir dataset and put mp4 video files 
+mkdir videos and put mp4 video files 
 ```
 ## 2. Dataset Generation
 ```bash
